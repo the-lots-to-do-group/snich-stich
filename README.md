@@ -9,6 +9,7 @@ Let's make sure that snitches don't get stitches.
 4. The user is allowed to refresh the anonymous account any number of times to extend its validity for another six months till the validity expires if the user does not refresh during that period.
 5. Once the validity of an anonymous account is expired then the user must create a new anonymous account which will have limited permissions for 5 years including not allowed to up vote or down vote but can post, comment and text other users.
 6. If a user needs to reset the anonymous account while it is still active, the current anonymous account cannot be refreshed again and the new account will also have limited permissions.
+7. The dates are not stored in the anonymous account so after 5 years the anonymous account has to use the refresh password to request voting permissions. 
 
 
 
